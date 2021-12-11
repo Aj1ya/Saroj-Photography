@@ -312,9 +312,9 @@ header{
                 }
         }
         .about-me-img{
-            flex-basis: 35%;
+            flex-basis: 25%;
             content: "";
-            height: 100vh;
+            height: auto;
             background: url("../images/home-img-1.jpg") center center no-repeat;
             background-size: cover;
             border-radius: 0 0 35% 35%;
