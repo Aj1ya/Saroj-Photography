@@ -395,7 +395,7 @@ header .icons #menu-bars {
   height: 100vh;
   background: url("../images/home-img-1.jpg") center center no-repeat;
   background-size: cover;
-  border-radius: 0 0 50% 50%;
+  border-radius: 0 0 35% 35%;
   position: relative;
 }
 
